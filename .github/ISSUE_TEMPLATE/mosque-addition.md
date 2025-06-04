@@ -1,8 +1,8 @@
 ---
 name: Mosque Addition
 about: Add a mosque to the database
-title: ''
-labels: enhancement
+title: Add [Mosque Name]
+labels: ''
 assignees: ''
 
 ---
