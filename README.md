@@ -4,6 +4,7 @@ Auto Silent Database is a database made for the app [Auto Silent](https://github
 You can use it for whatever you want.
 
 ## Included Mosques
+- Algeria (0.005%)
 - Ethiopia (0.003%)
 - Saudi Arabia (0.002%)
 - United States of America (2%)*
