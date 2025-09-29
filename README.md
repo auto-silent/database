@@ -8,7 +8,7 @@ You can use it for whatever you want.
 - Ethiopia (0.003%, 2/60000)
 - France (0.04%, 1/2600)
 - Saudi Arabia (0.002%, 2/100000)
-- United States of America (1.8%, 71/4000)*
+- United States of America (2.4%, 71/3000)*
 
 *Mostly centered in DFW, which is extensively covered
 
