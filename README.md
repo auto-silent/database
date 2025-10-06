@@ -7,6 +7,7 @@ You can use it for whatever you want.
 - Algeria (0.005%, 1/18500)
 - Ethiopia (0.003%, 2/60000)
 - France (0.04%, 1/2600)
+- India (0.0003%, 1/300000)
 - Saudi Arabia (0.002%, 2/100000)
 - United States of America (2.4%, 71/3000)*
 
