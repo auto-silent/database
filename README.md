@@ -9,6 +9,7 @@ You can use it for whatever you want.
 - France (0.04%, 1/2600)
 - India (0.0003%, 1/300000)
 - Saudi Arabia (0.002%, 2/100000)
+- South Africa (0.1%, 1/1000)
 - United States of America (2.4%, 71/3000)*
 
 *Mostly centered in DFW, which is extensively covered
